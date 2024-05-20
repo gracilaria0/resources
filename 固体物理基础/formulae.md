@@ -22,6 +22,7 @@
 * 导体：满带-禁带-能带
 * 非导体：满带-宽禁带-空带
 * 半导体：满带-窄（$E_g \lt 2\mathrm{eV}$）禁带-空带
+
 近满带，空穴$`\frac{1}{m^*} = -\frac{1}{m^*_e} = -\frac{1}{\hbar^2} \frac{\mathrm{d}^2E}{\mathrm{d}k^2}`$
 
 
@@ -39,9 +40,9 @@ $\sigma_0 = ne\mu$
 
 :hourglass_flowing_sand: 载流子浓度
 
-$np = N_- N_+ \exp\left(-\frac{E_g}{k_B T}\right)$
+$np = N_- N_+ \exp\left(-\frac{E_g}{k_B T}\right)$:question:
 
-:question:$np = n_i^2$
+$np = n_i^2$
 
 
 #### 4.3.2 本征激发
@@ -52,7 +53,7 @@ $$\begin{split}
 	E_{Ei} &= E_- - k_B T \ln\frac{N_-}{n_i} \\
 	&= E_+ + k_B T \ln\frac{N_+}{n_i}
 \end{split}$$
-=:hourglass_flowing_sand:
+=⏳
 
 
 #### 4.3.3 杂质与杂质激发
