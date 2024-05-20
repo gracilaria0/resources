@@ -9,8 +9,9 @@
 
 
 #### 4.1.2 加速度、有效质量、准动量
-有效质量$`\frac{1}{m^*_{\alpha\beta}} = \frac{1}{\hbar^2} \frac{\partial^2E}{\partial k_\alpha \partial k_\beta}$，$\frac{1}{m^*_{\alpha}} = \frac{1}{\hbar^2} \frac{\partial^2E}{\partial k_\alpha^2}$
-准动量$\hbar k`$
+有效质量$`\frac{1}{m^*_{\alpha\beta}} = \frac{1}{\hbar^2} \frac{\partial^2E}{\partial k_\alpha \partial k_\beta}$，$\frac{1}{m^*_{\alpha}} = \frac{1}{\hbar^2} \frac{\partial^2E}{\partial k_\alpha^2}`$
+
+准动量$\hbar k$
 
 
 #### 4.1.3 恒定电场作用下电子的运动
