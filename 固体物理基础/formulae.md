@@ -82,3 +82,14 @@ Lorentz力$`\boldsymbol{F} = e\boldsymbol{v}\times\boldsymbol{B}`$
 Hall系数$`R = \frac{1}{pe} = -\frac{1}{ne}`$
 
 Hall电场$`E_H = vB = RjB`$
+
+
+
+
+## 5 固体间接触的电特性
+### 5.1 功函数与接触电势
+电子亲和能$`\chi`$：电子真空能级到导带底的能量差，由材料本身的性质决定
+
+热发射电流密度$`j = -q\frac{4\pi m\left(k_B T\right)^2}{\left(2\pi\hbar\right)^3}\exp{\frac{\chi-E_F}{k_B T}} \propto \exp{\frac{W}{k_B T}}`$，功函数$`W = \chi-E_F`$，从Fermi面发射电子
+
+接触电势$`V_A-V_B = \frac{W_B-W_A}{e}`$
