@@ -74,12 +74,12 @@ $`\begin{split}
 
 
 2. 画出平衡状态能带图。
-   :framed_picture:
+   🖼️
 
 
 
 
-
+⏳⏳⏳⏳
 ### 5.3
 **A、B两种半导体材料形成理想异质结，A为P-Ge，B为N-GaAs，它们的基本常数为**
 
@@ -94,13 +94,13 @@ $`\begin{eqnarray}
 1. 此异质结结构界面处的导带不连续量$`\Delta E_C`$、价带的不连续量$`\Delta E_V`$、接触电势差$`V_D`$别为多少？
    $`\begin{eqnarray}
 		\Delta E_C &= \chi_A - \chi_B = 0.07\mathrm{eV}, \\
-		\Delta E_V &= \left(E_{g,B}+\chi_B\right) - left(E_{g,A}+\chi_A\right) = 0.69\mathrm{eV}, \\
+		\Delta E_V &= \left(E_{g,B}+\chi_B\right) - \left(E_{g,A}+\chi_A\right) = 0.69\mathrm{eV}, \\
 		V_D &= \frac{W_A - W_B}{e} = \frac{\left(\chi_A+\delta_A\right) - \left(\chi_B+\delta_B\right)}{e} = 0.50\mathrm{V}.
    \end{eqnarray}`$
    
 
 2. 画出异质结的能带简图（要求画出带边变化趋势，标明$`\Delta E_C`$、$`\Delta E_V`$、$`V_D`$）。
-   :framed_picture:
+   🖼️
 
 
 
@@ -138,15 +138,15 @@ $`I_- = J_s A = 1.8\times10^{-15} \mathrm{A}`$。
 ### 5.5
 **大致绘制出$`\text{Al}_{0.3}\text{Ga}_{0.7}`$As-GaAs突变异质结在下列情况下的能带图（假定$`\text{Al}_{0.3}\text{Ga}_{0.7}`$As的$`E_g=1.85\mathrm{eV}`$，GaAs的$`E_g=1.42\mathrm{eV}`$，$`\Delta E_C = 2/3\Delta E_g`$）：**
 1. N-AlGaAs与本征GaAs；
-   :framed_picture:
+   🖼️
 
 
-2. N-AlGaAs与P-GaAs；
-   :framed_picture:
+3. N-AlGaAs与P-GaAs；
+   🖼️
 
 
-3. P-AlGaAs与N-GaAs。
-   :framed_picture:
+4. P-AlGaAs与N-GaAs。
+   🖼️
 
 
 
